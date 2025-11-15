@@ -1,7 +1,5 @@
-pandas
-seaborn
-matplotlib
+pandas>=2.0.0
+seaborn>=0.12.0
+matplotlib>=3.7.0
 openai>=1.0.0
-reportlab
-flask
-google-cloud-storage
+reportlab>=4.0.0
