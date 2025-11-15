@@ -1,0 +1,7 @@
+pandas
+seaborn
+matplotlib
+openai>=1.0.0
+reportlab
+flask
+google-cloud-storage
